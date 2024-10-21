@@ -19,7 +19,7 @@ class _AddCollectorPageState extends State<AddCarPage> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Добавить новый автомобиль'),
+        title: const Text('Добавить новый сет'),
         backgroundColor: Colors.deepPurpleAccent,
       ),
       body: Padding(
